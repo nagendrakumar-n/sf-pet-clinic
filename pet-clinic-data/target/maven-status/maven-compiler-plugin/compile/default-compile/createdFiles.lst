@@ -1,1 +1,6 @@
+com\vivek\spring5\model\PetType.class
+com\vivek\spring5\model\Person.class
+com\vivek\spring5\model\Owner.class
 org\pet\clinic\data\App.class
+com\vivek\spring5\model\Pet.class
+com\vivek\spring5\model\Vet.class
